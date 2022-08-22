@@ -1,0 +1,274 @@
+Obstacle_Name,Obstacle_Order,total_by_name
+Cargo Climb,10,2
+Spider Trap,10,6
+Spider Climb,10,9
+Elevator Climb,10,6
+Invisible Ladder,10,11
+Fallout,9,1
+Body Prop,9,3
+Cane Lane,9,1
+Baton Pass,9,1
+Cycle Road,9,2
+Helix Hang,9,1
+Cargo Climb,9,7
+Clear Climb,9,1
+Cliffhanger,9,1
+Iron Maiden,9,2
+Rope Ladder,9,10
+The Clacker,9,2
+Window Hang,9,1
+Double Helix,9,1
+Ninjago Roll,9,1
+Pole Grasper,9,2
+Stair Hopper,9,3
+Circuit Board,9,2
+Doorknob Arch,9,2
+Globe Grasper,9,1
+Rolling Steel,9,1
+Floating Stairs,9,1
+Spinball Wizard,9,2
+Crazy Cliffhanger,9,2
+Arm Rings,8,3
+Cane Lane,8,1
+Minefield,8,1
+Rope Maze,8,1
+The Hinge,8,1
+The Wedge,8,2
+Flying Bar,8,6
+Ledge Jump,8,1
+Bungee Road,8,1
+Giant Cubes,8,2
+Tarzan Rope,8,6
+The Clacker,8,1
+Twist & Fly,8,1
+Walking Bar,8,1
+Crazy Clocks,8,1
+Gliding Ring,8,1
+Jumping Bars,8,1
+Lamp Grasper,8,2
+Nail Clipper,8,2
+Triple Swing,8,1
+Circle Slider,8,1
+Rumbling Dice,8,3
+Salmon Ladder,8,2
+Hourglass Drop,8,2
+Captain's Wheel,8,1
+Floating Stairs,8,1
+Flying Squirrel,8,2
+Swinging Frames,8,2
+Unstable Bridge,8,1
+Cannonball Alley,8,2
+Flying Shelf Grab,8,2
+Swinging Peg Board,8,1
+Floating Monkey Bars,8,3
+Area 51,7,1
+Coin Flip,7,1
+Time Bomb,7,2
+Bar Glider,7,1
+Flying Bar,7,1
+Giant Swing,7,1
+Razor Beams,7,1
+Slider Jump,7,1
+Spider Flip,7,4
+Warped Wall,7,4
+Domino Pipes,7,1
+Tarzan Swing,7,1
+Broken Bridge,7,1
+Salmon Ladder,7,38
+Spinning Bridge,7,4
+Peg Cloud,6,2
+Wall Flip,6,2
+Wall Lift,6,11
+Hang Climb,6,5
+Walking Bar,6,1
+Warped Wall,6,82
+Water Walls,6,1
+Bungee Rope Climb,6,2
+Warped Wall / Mega Wall,6,6
+Bar Hop,5,4
+Jeep Run,5,1
+Grip Hang,5,2
+Ring Toss,5,2
+Hang Climb,5,1
+I-Beam Gap,5,2
+Metal Spin,5,6
+Bungee Road,5,2
+Crank It Up,5,2
+Devil Steps,5,6
+Monkey Pegs,5,4
+Parkour Run,5,1
+Pipe Fitter,5,4
+Pipe Slider,5,2
+Rail Runner,5,2
+Sonic Curve,5,2
+Spin Hopper,5,2
+Chain Seesaw,5,1
+Circle Cross,5,2
+Double Wedge,5,1
+I-Beam Cross,5,2
+Jumping Bars,5,7
+Pole Grasper,5,1
+Roulette Row,5,1
+Swing Circle,5,3
+Battering Ram,5,4
+Doorknob Drop,5,2
+Propeller Bar,5,1
+Rope Junction,5,2
+Wingnut Alley,5,2
+Curtain Slider,5,4
+Hourglass Drop,5,2
+I-Beam Crossing,5,2
+Lightning Bolts,5,2
+Rolling Thunder,5,4
+Slippery Summit,5,2
+Swinging Spikes,5,4
+Curved Body Prop,5,2
+Half-Pipe Attack,5,6
+Bungee Rope Climb,5,2
+Double Tilt Ladder,5,4
+Pipe Slider / Devil Steps,5,2
+Flying Nunchuks / Trapeze Swing,5,2
+Wingnuts,4,2
+Block Run,4,4
+Jump Hang,4,16
+Ring Jump,4,4
+Ring Turn,4,2
+Sky Hooks,4,3
+Wall Drop,4,2
+Spin Cycle,4,4
+Swing Jump,4,4
+Tire Swing,4,4
+Crank It Up,4,2
+Disc Runner,4,2
+Monkey Pegs,4,2
+Slider Jump,4,2
+Wind Chimes,4,2
+Balance Tank,4,4
+Diamond Dash,4,2
+Swing Surfer,4,2
+Tuning Forks,4,1
+Broken Bridge,4,3
+Jump Hang Kai,4,2
+Jumping Rings,4,1
+Paddle Boards,4,2
+Butterfly Wall,4,3
+Cargo Crossing,4,2
+Jumping Spider,4,14
+Floating Chains,4,2
+Unstable Bridge,4,1
+Curved Body Prop,4,1
+Shin Cliffhanger,4,1
+Flying Shelf Grab,4,1
+(Modified) Ring Toss,4,2
+Ultimate Cliffhanger,4,7
+Spikes Into Cargo Net,4,2
+Rope Swing Into Cargo Net,4,2
+Jumping Bars into Cargo Net,4,2
+Deja Vu,3,1
+Log Grip,3,1
+Wingnuts,3,2
+Block Run,3,2
+Escalator,3,2
+Ring Jump,3,1
+Sky Hooks,3,1
+Cycle Road,3,1
+Fly Wheels,3,4
+Log Runner,3,4
+Prism Tilt,3,2
+Wheel Flip,3,2
+Devil Steps,3,1
+Domino Hill,3,2
+Giant Swing,3,2
+Rope Glider,3,1
+Silk Slider,3,2
+Wave Runner,3,2
+Broken Pipes,3,2
+Crazy Clocks,3,1
+Nail Clipper,3,1
+Razor's Edge,3,4
+Slack Ladder,3,2
+Spinning Log,3,8
+Stick Slider,3,1
+Broken Bridge,3,2
+Bungee Bridge,3,4
+Double Dipper,3,2
+Paddle Boards,3,4
+Tilting Table,3,4
+Balance Bridge,3,2
+Dancing Stones,3,2
+Floating Tiles,3,2
+Giant Log Grip,3,1
+Rolling Barrel,3,2
+Snake Crossing,3,2
+Bouncing Spider,3,4
+Floating Boards,3,4
+Rotating Bridge,3,2
+Spinning Bridge,3,4
+Unstable Bridge,3,6
+Bridge of Blades,3,10
+Rolling Escargot,3,1
+Ultimate Cliffhanger,3,2
+G-Rope,2,1
+Cat Grab,2,2
+En Garde,2,1
+Log Grip,2,20
+Jump Hang,2,2
+Tick Tock,2,4
+Big Dipper,2,4
+Fly Wheels,2,2
+Flying Bar,2,1
+Giant Ring,2,2
+Ring Swing,2,4
+Rope Swing,2,4
+Hang Glider,2,2
+Rolling Log,2,11
+Rolling Pin,2,2
+Frame Slider,2,2
+Hazard Swing,2,1
+Keylock Hang,2,1
+Downhill Jump,2,2
+Jumper Cables,2,2
+Propeller Bar,2,4
+Salmon Ladder,2,1
+Curtain Slider,2,1
+Double Twister,2,2
+Spinning Wheel,2,2
+Tilting Slider,2,2
+Cannonball Drop,2,4
+Catch & Release,2,2
+Floating Boards,2,1
+Doorknob Grasper,2,5
+Mini Silk Slider,2,2
+Rolling Escargot,2,1
+Spinning Bowties,2,2
+Downhill Pipe Drop,2,2
+Utility Pole Slider,2,2
+Double Salmon Ladder,2,6
+Down Up Salmon Ladder,2,1
+Descending Lamp Grasper,2,1
+Criss Cross Salmon Ladder,2,2
+Timbers,1,1
+Arm Bike,1,1
+Arm Rings,1,1
+Snake Run,1,2
+Quad Steps,1,16
+Rope Climb,1,9
+Hang Slider,1,1
+Piston Road,1,2
+Rope Jungle,1,2
+Slider Drop,1,3
+Step Slider,1,3
+Archer Alley,1,1
+Archer Steps,1,6
+Keylock Hang,1,1
+Downhill Jump,1,1
+Floating Steps,1,28
+Twelve Timbers,1,1
+Floating Boards,1,2
+Heavenly Ladder,1,1
+Psycho Chainsaw,1,1
+Quintuple Steps,1,32
+Giant Ring Swing,1,2
+Roulette Cylinder,1,3
+Cannonball Incline,1,1
+Epic Catch & Release,1,1
